@@ -1,0 +1,9 @@
+C:\Users\Crumpet\Desktop\sharp\dz1\ClassLibrary1\bin\Debug\netcoreapp3.1\MyLib.deps.json
+C:\Users\Crumpet\Desktop\sharp\dz1\ClassLibrary1\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\Crumpet\Desktop\sharp\dz1\ClassLibrary1\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\Crumpet\Desktop\sharp\dz1\ClassLibrary1\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfoInputs.cache
+C:\Users\Crumpet\Desktop\sharp\dz1\ClassLibrary1\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfo.cs
+C:\Users\Crumpet\Desktop\sharp\dz1\ClassLibrary1\obj\Debug\netcoreapp3.1\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\Crumpet\Desktop\sharp\dz1\ClassLibrary1\obj\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\Crumpet\Desktop\sharp\dz1\ClassLibrary1\obj\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\Crumpet\Desktop\sharp\dz1\ClassLibrary1\obj\Debug\netcoreapp3.1\MyLib.csprojAssemblyReference.cache
